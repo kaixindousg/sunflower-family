@@ -1,34 +1,16 @@
 # li development plan
-
-## Newborn 1-2 months 
-
-## Infant 2-12 months
-
-Rolling over
-Smiling
-Sitting up
-Waving
-Clapping
-Picking up objects
-Crawling
-Babbling
-Possibly saying a few words
-
-## Toddler 2-3 years
-
-Walking (usually by 18 months)
-Learning to talk (and eventually speaking in phrases and sentences)
-Identifying and imitating the people around them
-Following simple instructions
-Feeding themselves
-Engaging in play
-Expressing more emotions and awareness
-Imitating the behavior of others
-Running, kicking, and climbing as they near preschool age
-
-## Early childhood 3-5 years
+I want li to be the person who can make the world better. To be the best high-technology engineer and excellent boss.
 
 
-## middle childhood(ages 6 to 12)
 
-## adolescence (13 to 18)
+## Newborn
+## Infant 1 to 3 Months
+## Infant 4 to 6 Months
+## Infant 7 to 9 months
+## Infant 10 to 12 Months
+## Toddler 1 Year
+## Toddler 2 Years
+## Toddler 3 Years
+## Early childhood 4 to 5 Years
+## Middle childhood 6 to 12 Years
+## Adolescence 13 to 18 Years
