@@ -1,4 +1,4 @@
-# li growth plan
+# li development plan
 
 ## Newborn 1-2 months 
 
@@ -30,4 +30,5 @@ Running, kicking, and climbing as they near preschool age
 
 
 ## middle childhood(ages 6 to 12)
+
 ## adolescence (13 to 18)
